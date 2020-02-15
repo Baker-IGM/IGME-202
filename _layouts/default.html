@@ -1,6 +1,7 @@
 {% assign homeNav = "" %}
 {% assign syllabusNav = "" %}
 {% assign scheduleNav = "" %}
+{% assign codingNav = "" %}
 
 <!--  Home Nav -->
 {% if page.nav == "home" %}
@@ -9,6 +10,8 @@
     {% assign syllabusNav = "active" %}
 {% elsif page.nav == "schedule" %}
     {% assign scheduleNav = "active" %}
+{% elsif page.nav == "coding" %}
+    {% assign codingNav = "active" %}
 {% endif %}
 
 <!DOCTYPE html>
@@ -46,6 +49,9 @@
               </li>
               <li class="{{ scheduleNav }}">
                 <a href="{{ '/schedule' | relative_url }}">Schedule</a>
+              </li>
+              <li class="{{ codingNav }}">
+                <a href="{{ '/coding' | relative_url }}">Coding Standards</a>
               </li>
             </ul>
           </nav>
