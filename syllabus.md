@@ -5,21 +5,21 @@ nav: syllabus
 
 # Course Syllabus _(2191)_
 
-### Section 01 – Orange Hall 1370 MWF 12 – 1:50pm
+### Section ## – TBA
 
 **_Please read this document carefully and bookmark it for future reference. It provides the context and structure which will guide all aspects of this course._**
 
-**_This is NOT the same syllabus as other sections of GDAPS 2. While most elements of the course will be very similar, they will not be identical._**
+**_This is NOT the same syllabus as other sections of IMD. While most elements of the course will be very similar, they will not be identical._**
 
 ## Course Information
 
--   **Course Number:** IGME 106
--   **Course Name:** Game Development and Algorithmic Problem Solving II
--   **Course Credits:** 4
+-   **Course Number:** IGME 202
+-   **Course Name:** Interactive Media Development
+-   **Course Credits:** 3
 
 ## Course Description
 
-This course furthers the exploration of problem solving, abstraction and algorithmic design.  Students apply the object-oriented paradigm of software development, with emphasis upon fundamental concepts of encapsulation, inheritance and polymorphism. In addition, object structures and class relationships comprise a key portion of the analytical process including the exploration of problem structure and refactoring. Intermediate concepts in software design including GUIs, threads, events, networking and advanced APIs are also explored. Students are also introduced to data structures, algorithms, exception handling and design patterns that are relevant to the construction of game systems.
+In this course, students will learn to create visually rich interactive experiences. It is a course in programming graphics and media, but it is also a course on the relationship between ideas and code. Students will explore topics in math and physics by building programs that simulate and visualize processes in the natural world. Assignments will include major programming projects, such as building a virtual world inhabited by digital creatures that display observable behaviors.
 
 ### Important RIT Deadlines
 
@@ -30,8 +30,6 @@ This course furthers the exploration of problem solving, abstraction and algorit
 ## Texts and Materials
 
 -   **Text:**
-    -   The C# Player’s Guide 3rd Edition, by RB Whitaker, Starbound Software, 3/13/2016, ISBN# 978-0985580131
-        -   Available in the RIT bookstore, or on Amazon.com
 -   **Programming Resources:**
     -   Visual Studio 2019 – Community Edition.
         -   Required to complete programming assignments outside of IGM labs.
@@ -49,23 +47,6 @@ This course furthers the exploration of problem solving, abstraction and algorit
 ## Course Topics
 
 Topics we will cover the following concepts during this course include (but are not limited to):
-
--   Dictionaries
--   Events & Delegates
--   Finite State Machines
--   Game algorithms
--   Generics
--   Graphs (Structure and searching)
--   Linked lists
--   MonoGame
--   Queues
--   Recursion
--   Reference vs. value types
--   Stacks
--   Team organization & dynamics
--   Trees
--   Version Control
--   Windows UI
 
 ## Grade Organization
 
@@ -91,20 +72,6 @@ Topics we will cover the following concepts during this course include (but are 
 | 60% &lt;= ## &lt; 70% | D            | 1            |
 | ## &lt; 60%           | F            | 0            |
 
-## Course Completion
-
-**AVERAGE OVERALL GRADE OF 70% REQUIRED TO PASS**
-
-**AVERAGE HOMEWORK GRADE OF 70% REQUIRED TO PASS**
-
-**AVERAGE WEIGHTED EXAM GRADE OF 70% REQUIRED TO PASS**
-
-Any downstream courses that require this course as a pre-requisite includes a stipulation that students earn a C- (70%) or better in this course to enroll.
-
-If your exam average or homework average is less than 70% **(_you will not earn a passing grade regardless of your performance in other areas of the course_)**
-
-You must also have an overall grade of at least 70% (exams, homework, group project, PE’s and participation) to advance to the next course.  This condition is identical throughout all sections of IGME 106, and will not be waived under any circumstances.
-
 ## Course Organization
 
 ### Practice Exercises (15%)
@@ -128,27 +95,6 @@ Periodically, you will have a homework assignment that explores some aspect of t
 **Submissions:** Homework, like PE’s, must be submitted to MyCourses as a single .zip file containing all of your project files – not just the code.  You may re-submit homework files as many times as you wish – for example, if you found an error after submitting.  Only the most recent submission will be graded.
 
 **Late Penalty:**  Late homework assignments will lose 10 points per day.  For example: if your program would have earned a 94, but it was submitted anywhere between 1 second and 24 hours late, you will receive an 84.
-
-### [Group Project (20%)](project/instructions)
-
-This is a team-based, multi-week project where you design and create a 2D game.  The teams will consist of approx. 4 students.
-
-**Due Dates:** There will be 3-4 project milestones in total, to be scheduled as the semester goes on. There will be approx. 2-3 weeks between each milestone.  Each milestone will be weighted equally towards the final group project grade.
-
-**Submitting:**  Each milestone will have several requirements:
-
--   Presentation to the class
--   Documentation
--   Code
--   Peer evaluations
-
-**Late Penalty:** Late project submissions will lose 10% per day.  The final milestone, which is due during the last week of the semester, will NOT be accepted after its due date.
-
-**Individual Adjustments:** You are required to be an active participant in the project. Failure to do so will have a major impact on your final grade.
-
-Everyone on your team will receive a team grade based on the overall performance of the team. Individual adjustments to the team grade will be made based on the level of participation of each team member (based on peer evaluations, version control history, and instructor observations).
-
-Participating in the group project is perhaps the most valuable experience you will take from this course. Far more projects fail because of poor collaboration and communication within project teams than they do for any technical short-comings. Becoming an effective team member is a critical career skill and the goal of this project is to gain some experience with effective (and non-effective) teaming practices. The expectation is that each team member will make an honest effort in participating in team activities to the best of their ability. Since this is your first large team based project, I will be monitoring group progress and speaking with groups that may be having problems.
 
 ### Exams (45%)
 
@@ -181,11 +127,11 @@ Missing an exam will result in a grade of zero unless you contact the instructor
 
 ### Participation
 
-There is no explicit participation grade in this course. HOWEVER, missing class, not paying attention, not participating in the group project, etc. WILL impact your grade via an indirect impact on your ability to complete individual assignments/exams and peer evaluations. In short, the more you participate, the more you will get out of this course.
+There is no explicit participation grade in this course. HOWEVER, missing class, not paying attention, not participating in the group project, etc. WILL impact your grade via an indirect impact on your ability to complete individual assignments/exams. In short, the more you participate, the more you will get out of this course.
 
 ## Grading Policies
 
-### Project Feedback:
+### Grading Feedback:
 
 It takes time to grade programming assignments - much more time than students expect. Programming assignments may take up to 3 weeks to be fully graded, and late submissions may take even longer.
 
