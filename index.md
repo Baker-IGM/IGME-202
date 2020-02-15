@@ -10,7 +10,7 @@
 -   Professor: Eric Baker
 
     -   Office: 2569 Golisano Hall
-    -   Email: eabigm@rit.edu
+    -   Email: <mailto:eabigm@rit.edu>
     -   Office hours:
         -   Mondays & Thursdays 9:00am - 11a:00am
 
