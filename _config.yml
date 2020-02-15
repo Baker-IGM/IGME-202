@@ -1,1 +1,11 @@
-theme: jekyll-theme-slate
+theme:        jekyll-theme-slate
+
+plugins:
+  - jekyll-sitemap
+
+title:        IGME 202
+description:  Interactive Media Development
+
+
+discordInvite:  "TBD"
+classStartTime: "TBD"
